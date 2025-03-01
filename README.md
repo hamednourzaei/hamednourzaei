@@ -20,7 +20,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
-- 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
+- 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)
 
 - 👯 I’m looking to collaborate on **Fullstack Web Apps**
 
