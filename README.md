@@ -16,16 +16,16 @@
 
 ---
 
-### 🌱 درباره من
+### 🌱 About Me
 
-- در حال یادگیری [**Backend Engineer Career Path from Codecademy**](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)
-- علاقه‌مند به همکاری در پروژه‌های **Fullstack Web Apps**
-- سوالات خود را در مورد **HTML, CSS3, Tailwind CSS, JavaScript, ES6+, React.js, Next.js, Redux, RTK, RxJS, Git, Bootstrap, MaterialUI, React-Router-Dom, React SWR, API Context, useReducer, useEffect, useState, useMemo, useSWR** بپرسید.
-- 📫 تماس: **hamednourzaie1@gmail.com**
+- Currently learning [**Backend Engineer Career Path from Codecademy**](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)
+- Interested in collaborating on **Fullstack Web Apps**
+- Feel free to ask me about **HTML, CSS3, Tailwind CSS, JavaScript, ES6+, React.js, Next.js, Redux, RTK, RxJS, Git, Bootstrap, MaterialUI, React-Router-Dom, React SWR, API Context, useReducer, useEffect, useState, useMemo, useSWR**
+- 📫 Contact: **hamednourzaie1@gmail.com**
 
 ---
 
-### Connect with me:
+### Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/hamednourzaei" target="_blank">
@@ -49,7 +49,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <!-- سایر ابزارها -->
+  <!-- Other Tools -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -59,7 +59,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
-  <!-- بقیه ابزارها -->
+  <!-- Other Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
