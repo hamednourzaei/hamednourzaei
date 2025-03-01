@@ -3,7 +3,7 @@
   <a href="https://github.com/hamedmkm">
 
 
-https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=Hamedmkm
+
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=Hamed+mkm" alt="Hamed MKM" /></a>
 
    </a>
