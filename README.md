@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/elhadjx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=Hadj+Hadji" alt="Hadj Hadji" /></a>
+  <a href="https://github.com/hamedmkm">
+hamedmkm
+   </a>
 </p>
 
 <p align="center">
