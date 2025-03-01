@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamedmkm&label=Profile%20views&color=ff0000&style=flat" alt="hamedmkm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamedmkm&label=Profile%20views&color=ff0000&style=flat" alt="hamedmkm" /> </p>
 
 - 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)
 
