@@ -74,15 +74,18 @@
 ---
 
 ### GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=hamedmkm&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff" alt="Top Repositories" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedmkm&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamedmkm&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamedmkm&theme=dark" alt="Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamedmkm&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</p>
+
