@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfol1oportfolio.netlify.app/certification">
+  <a href="https://portfol1oportfolio.netlify.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Backend+Developer;BSc+in+Computer+Science;Node.js+%7C+Express.js" /></a>
 </p>
 
