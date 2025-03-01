@@ -1,6 +1,36 @@
 <p align="center">
+<style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #000;
+      font-family: Arial, sans-serif;
+      overflow: hidden;
+    }
+
+    .text {
+      font-size: 50px;
+      color: #00ffcc;
+      text-transform: uppercase;
+      letter-spacing: 10px;
+      position: relative;
+      animation: glow 2s infinite alternate;
+    }
+
+    @keyframes glow {
+      from {
+        text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 15px #00ffcc, 0 0 20px #00ffcc;
+      }
+      to {
+        text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #00ffcc, 0 0 40px #00ffcc;
+      }
+    }
+  </style>
   <a href="https://github.com/hamedmkm">
-hamedmkm
+  <div class="text">hamedmkm</div>
    </a>
 </p>
 
