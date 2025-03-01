@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="react-router-dom" width="40" height="40"/>
   </a>
   <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swr/swr-original-wordmark.svg" alt="react-swr" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-swr" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/docs/context.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="api-context" width="40" height="40"/>
