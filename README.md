@@ -80,13 +80,11 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamedmkm&theme=dark" alt="Streak Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamedmkm&theme=github&hide_border=true&custom_title=GitHub%20Contributions" alt="GitHub Contributions" />
-</p>
-<p align="center">
+
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=hamedmkm&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
