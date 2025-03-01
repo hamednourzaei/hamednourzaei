@@ -29,6 +29,27 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="react-router-dom" width="40" height="40"/>
+  </a>
+  <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-swr" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/docs/context.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="api-context" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/docs/hooks-reference.html#usereducer" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useReducer" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/docs/hooks-reference.html#useeffect" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useEffect" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/docs/hooks-reference.html#usestate" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useState" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/docs/hooks-reference.html#usememo" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useMemo" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -68,27 +89,8 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
   </a>
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="react-router-dom" width="40" height="40"/>
-  </a>
-  <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-swr" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/docs/context.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="api-context" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/docs/hooks-reference.html#usereducer" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useReducer" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/docs/hooks-reference.html#useeffect" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useEffect" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/docs/hooks-reference.html#usestate" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useState" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/docs/hooks-reference.html#usememo" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="useMemo" width="40" height="40"/>
-  </a>
+
+
 </p>
 
 
