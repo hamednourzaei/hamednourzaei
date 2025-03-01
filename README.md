@@ -16,7 +16,7 @@
 
 ---
 
-### 🌱 About Me
+  ### 🌱 About Me
 
 - Currently learning [**Backend Engineer Career Path from Codecademy**](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)
 - Interested in collaborating on **Fullstack Web Apps**
@@ -25,7 +25,7 @@
 
 ---
 
-### Connect with Me
+  ### Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/hamednourzaei" target="_blank">
@@ -38,7 +38,7 @@
 
 ---
 
-### Languages and Tools
+   ### Languages and Tools
 
 <p align="center">
   <!-- Next.js -->
@@ -73,7 +73,7 @@
 
 ---
 
-### GitHub Stats
+  ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedmkm&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
