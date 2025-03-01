@@ -25,18 +25,7 @@
 
 ---
 
-### Connect with Me
 
-<p align="center">
-  <a href="https://instagram.com/hamednourzaei" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
-  </a>
-  <a href="https://t.me/hard_days_champion" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40" />
-  </a>
-</p>
-
----
 
 ### Languages and Tools
 
@@ -68,6 +57,18 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MaterialUI" width="40" height="40"/>
+  </a>
+</p>
+
+---
+### Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/hamednourzaei" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="https://t.me/hard_days_champion" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40" />
   </a>
 </p>
 
