@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://portfol1oportfolio.netlify.app">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=835&lines=FullStack:FrontEnd++BackEnd" alt="Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=835&lines=FullStack:FrontEnd+-BackEnd" alt="Skills" />
 </p>
 
   </a>
