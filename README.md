@@ -35,9 +35,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="react-router-dom" width="40" height="40"/>
-  </a>
+
   <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-swr" width="40" height="40"/>
   </a>
@@ -65,7 +63,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
-
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="react-router-dom" width="40" height="40"/>
+  </a>
 
 
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
