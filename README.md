@@ -9,15 +9,7 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/dino_elhadj"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/Javatar#9891"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/elhadjx"><img width="32px" alt="Dev.to" title="elhadjx Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
 - 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)
