@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://portfol1oportfolio.netlify.app">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=full&lines=HTML%2C+CSS3%2C+Tailwind+CSS%2C+JavaScript%2C+ES6%2B%2C+React.js%2C+Next.js%2C+Redux%2C+RTK%2C+RxJS%2C+Git%2C+Bootstrap%2C+MaterialUI%2C+React-Router-Dom%2C+React+SWR%2C+API+Context%2C+useReducer%2C+useEffect%2C+useState%2C+useMemo%2C+useSWR" alt="Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&lines=HTML%2C+CSS3%2C+Tailwind+CSS%2C+JavaScript%2C+ES6%2B%2C+React.js%2C+Next.js%2C+Redux%2C+RTK%2C+RxJS%2C+Git%2C+Bootstrap%2C+MaterialUI%2C+React-Router-Dom%2C+React+SWR%2C+API+Context%2C+useReducer%2C+useEffect%2C+useState%2C+useMemo%2C+useSWR" alt="Skills" />
 </p>
 
   </a>
