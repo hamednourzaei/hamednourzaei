@@ -40,6 +40,16 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
   <a href="https://crypto-2pp.netlify.app/">
     <img src="https://img.shields.io/badge/Project-3-FF9800?style=for-the-badge&logo=appveyor" alt="Project 3" />
   </a>
+
+  <a href="https://deepf.netlify.app/">
+    <img src="https://img.shields.io/badge/Project-4-4CAF50?style=for-the-badge&logo=appveyor" alt="Project 4" />
+  </a>
+  <a href="https://interview-prep-samples.netlify.app/">
+    <img src="https://img.shields.io/badge/Project-5-2196F3?style=for-the-badge&logo=appveyor" alt="Project 5" />
+  </a>
+  <a href="https://t1cketbooking.netlify.app/">
+    <img src="https://img.shields.io/badge/Project-6-FF9800?style=for-the-badge&logo=appveyor" alt="Project 6" />
+  </a>
 </p>
 
 ---
