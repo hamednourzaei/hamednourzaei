@@ -16,7 +16,7 @@
 </p>
 
 
-### 🌱 About Me
+###      🌱 About Me
 
 Hello! I'm Hamed, a full-stack developer passionate about learning and collaborating on modern web projects.  
 - **Skills:** HTML, CSS3, Tailwind CSS, JavaScript, ES6+, React.js, Next.js, Redux, RTK, RxJS, Git, Bootstrap, MaterialUI, and other modern technologies  
@@ -26,7 +26,7 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
 
 ---
 
-### 🏆 Featured Projects
+###     🏆 Featured Projects
 
 <p align="center">
   <!-- Example badges using Shields.io -->
@@ -53,7 +53,7 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
 
 ---
 
-### 🛠 Languages and Tools
+###      🛠 Languages and Tools
 
 <p align="center">
   <!-- Next.js -->
@@ -92,7 +92,7 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
 
 ---
 
-### 🔗 Connect with Me
+###       🔗 Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/hamednourzaei" target="_blank">
@@ -105,7 +105,7 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
 
 ---
 
-### 📊 GitHub Stats
+###     📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedmkm&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
