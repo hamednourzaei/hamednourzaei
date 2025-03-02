@@ -1,6 +1,6 @@
 <!-- Header with Animated Typing Effect -->
 <p align="center">
-  <a href="https://github.com/hamedmkm">
+  <a href="https://github.com/hamednourzaei">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=800&color=F70000&center=true&width=435&lines=hamednourzaei" alt="Tsar Team" />
   </a>
 </p>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamedmkm&label=Profile%20views&color=ff0000&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hamednourzaei&label=Profile%20views&color=ff0000&style=flat" alt="Profile Views" />
 </p>
 
 
@@ -108,15 +108,15 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
 ###     📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedmkm&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamednourzaei&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamedmkm&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamednourzaei&theme=tokyonight" alt="Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamedmkm&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamednourzaei&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
 
