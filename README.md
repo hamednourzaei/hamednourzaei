@@ -17,34 +17,34 @@
 
 ---
 
-### 🌱 درباره من
+### 🌱 About Me
 
-سلام! من حامد هستم؛ یک توسعه‌دهنده فول‌استک علاقه‌مند به یادگیری و همکاری در پروژه‌های وب مدرن.  
-- **تخصص‌ها:** HTML, CSS3, Tailwind CSS, JavaScript, ES6+, React.js, Next.js, Redux, RTK, RxJS, Git, Bootstrap, MaterialUI، و سایر تکنولوژی‌های روز  
-- **تجربه‌ها:** همکاری در پروژه‌های متنوع و ارتقاء مستمر دانش فنی  
-- **گواهی‌ها:** [Search About me in mft](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)  
-- 📫 **تماس:** [hamednourzaie1@gmail.com](mailto:hamednourzaie1@gmail.com)
+Hello! I'm Hamed, a full-stack developer passionate about learning and collaborating on modern web projects.  
+- **Skills:** HTML, CSS3, Tailwind CSS, JavaScript, ES6+, React.js, Next.js, Redux, RTK, RxJS, Git, Bootstrap, MaterialUI, and other modern technologies  
+- **Experiences:** Collaborative work on various projects and continuous enhancement of technical skills  
+- **Certificates:** [Check out my certificate on mft](https://mftplus.com/verifycertificate?auto=1&nationalcode=105868470490&code=1760016)  
+- 📫 **Contact:** [hamednourzaie1@gmail.com](mailto:hamednourzaie1@gmail.com)
 
 ---
 
-### 🏆 پروژه‌های برجسته
+### 🏆 Featured Projects
 
 <p align="center">
-  <!-- نمونه نشان با استفاده از Shields.io -->
+  <!-- Example badges using Shields.io -->
   <a href="https://github.com/hamedmkm/sample-project">
-    <img src="https://img.shields.io/badge/پروژه-اول-4CAF50?style=for-the-badge&logo=appveyor" alt="Project 1" />
+    <img src="https://img.shields.io/badge/Project-1-4CAF50?style=for-the-badge&logo=appveyor" alt="Project 1" />
   </a>
   <a href="https://github.com/hamedmkm/another-project">
-    <img src="https://img.shields.io/badge/پروژه-دوم-2196F3?style=for-the-badge&logo=appveyor" alt="Project 2" />
+    <img src="https://img.shields.io/badge/Project-2-2196F3?style=for-the-badge&logo=appveyor" alt="Project 2" />
   </a>
   <a href="https://github.com/hamedmkm/yet-another-project">
-    <img src="https://img.shields.io/badge/پروژه-سوم-FF9800?style=for-the-badge&logo=appveyor" alt="Project 3" />
+    <img src="https://img.shields.io/badge/Project-3-FF9800?style=for-the-badge&logo=appveyor" alt="Project 3" />
   </a>
 </p>
 
 ---
 
-### 🛠 زبان‌ها و ابزارها
+### 🛠 Languages and Tools
 
 <p align="center">
   <!-- Next.js -->
@@ -83,7 +83,7 @@
 
 ---
 
-### 🔗 ارتباط با من
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/hamednourzaei" target="_blank">
@@ -96,7 +96,7 @@
 
 ---
 
-### 📊 آمار گیت‌هاب
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedmkm&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
@@ -112,14 +112,14 @@
 
 ---
 
-### 🎬 انیمیشن‌های جذاب
+### 🎬 Cool Animations
 
 <p align="center">
-  <!-- گیف مرتبط با کدنویسی -->
+  <!-- Coding GIF -->
   <img src="https://media.giphy.com/media/26xBwc7ZX8E3xC9NK/giphy.gif" alt="Coding GIF" width="300"/>
 </p>
 
 <p align="center">
-  <!-- انیمیشن تایپینگ خوشامدگویی با SVG -->
+  <!-- Welcome Typing Animation using SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00ff00&center=true&width=500&lines=Welcome+to+my+GitHub+Profile" alt="Welcome Animation" />
 </p>
