@@ -31,13 +31,13 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
 
 <p align="center">
   <!-- Example badges using Shields.io -->
-  <a href="https://github.com/hamedmkm/sample-project">
+  <a href="https://d1gikala.netlify.app/">
     <img src="https://img.shields.io/badge/Project-1-4CAF50?style=for-the-badge&logo=appveyor" alt="Project 1" />
   </a>
-  <a href="https://github.com/hamedmkm/another-project">
+  <a href="https://filimo2.netlify.app/">
     <img src="https://img.shields.io/badge/Project-2-2196F3?style=for-the-badge&logo=appveyor" alt="Project 2" />
   </a>
-  <a href="https://github.com/hamedmkm/yet-another-project">
+  <a href="https://crypto-2pp.netlify.app/">
     <img src="https://img.shields.io/badge/Project-3-FF9800?style=for-the-badge&logo=appveyor" alt="Project 3" />
   </a>
 </p>
@@ -102,24 +102,13 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamedmkm&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamedmkm&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamedmkm&theme=tokyonight" alt="Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamedmkm&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 🎬 Cool Animations
-
-<p align="center">
-  <!-- Coding GIF -->
-  <img src="https://media.giphy.com/media/26xBwc7ZX8E3xC9NK/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
-
-<p align="center">
-  <!-- Welcome Typing Animation using SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00ff00&center=true&width=500&lines=Welcome+to+my+GitHub+Profile" alt="Welcome Animation" />
-</p>
