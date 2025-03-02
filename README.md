@@ -1,7 +1,7 @@
 <!-- Header with Animated Typing Effect -->
 <p align="center">
   <a href="https://github.com/hamedmkm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=800&color=F70000&center=true&width=435&lines=Tsar+Team" alt="Tsar Team" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=800&color=F70000&center=true&width=435&lines=hamednourzaei" alt="Tsar Team" />
   </a>
 </p>
 
