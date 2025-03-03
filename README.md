@@ -49,6 +49,9 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
   <a href="https://t1cketbooking.netlify.app/">
     <img src="https://img.shields.io/badge/Project-6-FF9800?style=for-the-badge&logo=appveyor" alt="Project 6" />
   </a>
+  <a href="https://3shpoing.netlify.app/">
+    <img src="https://img.shields.io/badge/Project-7-FF9800?style=for-the-badge&logo=appveyor" alt="Project 7" />
+  </a>
 </p>
 
 ---
