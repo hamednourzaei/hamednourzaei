@@ -113,7 +113,7 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamednourzaei&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=hamednourzaei&theme=tokyonight" alt="Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamednourzaei&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
