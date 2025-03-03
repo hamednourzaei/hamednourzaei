@@ -111,10 +111,6 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamednourzaei&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=hamednourzaei&theme=tokyonight" alt="Streak Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamednourzaei&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
