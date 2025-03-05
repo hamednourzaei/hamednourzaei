@@ -118,5 +118,13 @@ Hello! I'm Hamed, a full-stack developer passionate about learning and collabora
   <img src="https://github-readme-stats.vercel.app/api?username=hamednourzaei&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
+## How to Contribute
 
+To propose changes or add new features to this repository, please follow the steps below:
+
+Fork the repository.
+Clone your fork to your local machine.
+Create a new branch:
+bash
+   git checkout -b feature-branch
 
