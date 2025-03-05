@@ -125,6 +125,6 @@ To propose changes or add new features to this repository, please follow the ste
 Fork the repository.
 Clone your fork to your local machine.
 Create a new branch:
-bash
+ ```bash
    git checkout -b feature-branch
 
